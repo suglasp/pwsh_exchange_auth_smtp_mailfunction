@@ -1,0 +1,2 @@
+my.address@domain.com
+other.address@domain.com
