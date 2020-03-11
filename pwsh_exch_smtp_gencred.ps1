@@ -6,7 +6,7 @@
 # Notes on the output file (.clixml):
 # This file will be unique per host, because it uses for hashing the Windows Data Protection API.
 # On Linux and Mac OS the password will not be hashed.
-# For each machine that needs to use the Send-MailExchange function, you will want to run this script.
+# For each machine that needs to use the Send-SmtpExchange function, you will want to run this script.
 # Ref : https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/export-clixml?view=powershell-7
 #
 
